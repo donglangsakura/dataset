@@ -1,0 +1,38 @@
+<annotation>
+	<folder>0-other garbage-fast food box</folder>
+	<filename>img_1645.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1645.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0/其他垃圾/快餐盒</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>46</ymin>
+			<xmax>150</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0/其他垃圾/快餐盒</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>88</ymin>
+			<xmax>247</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-blet waste-leaf</folder>
+	<filename>img_634.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4/易腐垃圾/叶子</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>70</ymin>
+			<xmax>180</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

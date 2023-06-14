@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-other garbage-cigarette</folder>
+	<filename>img_3389.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_3389.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2/其他垃圾/烟头</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>25</ymin>
+			<xmax>474</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

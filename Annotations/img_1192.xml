@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-recyclables-rope</folder>
+	<filename>img_1192.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9/可回收垃圾/绳子</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>45</ymin>
+			<xmax>369</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

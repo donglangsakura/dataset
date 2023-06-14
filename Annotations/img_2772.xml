@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-blet waste-fruit peel</folder>
+	<filename>img_2772.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_2772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3/易腐垃圾/果皮</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>76</ymin>
+			<xmax>264</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

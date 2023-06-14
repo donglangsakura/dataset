@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-recyclables-bottle</folder>
+	<filename>img_2092.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_2092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7/可回收垃圾/玻璃瓶</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>1</ymin>
+			<xmax>351</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+</annotation>

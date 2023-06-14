@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-other garbage-soiled plastic</folder>
+	<filename>img_128.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1/其他垃圾/塑料袋</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>16</ymin>
+			<xmax>499</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

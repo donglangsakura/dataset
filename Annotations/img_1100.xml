@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>img_1100.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8/可回收垃圾/纸</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>74</ymin>
+			<xmax>294</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-recyclables-paper bags</folder>
+	<filename>img_1283.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>11/可回收垃圾/纸袋</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>115</ymin>
+			<xmax>523</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

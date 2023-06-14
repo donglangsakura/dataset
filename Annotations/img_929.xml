@@ -1,0 +1,26 @@
+<annotation>
+	<folder>foam</folder>
+	<filename>img_929.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_929.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5/可回收垃圾/泡沫</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>69</ymin>
+			<xmax>1067</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+</annotation>

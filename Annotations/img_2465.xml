@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-recyclables-drink bottle</folder>
+	<filename>img_2465.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_2465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10/可回收垃圾/饮料瓶</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>213</ymin>
+			<xmax>1002</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+</annotation>

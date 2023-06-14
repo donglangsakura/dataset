@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-recyclables-paper</folder>
+	<filename>img_1025.jpeg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1025.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8/可回收垃圾/纸</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>16</ymin>
+			<xmax>308</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

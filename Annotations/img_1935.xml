@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-recyclables-can</folder>
+	<filename>img_1935.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_1935.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6/可回收垃圾/易拉罐</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>7</ymin>
+			<xmax>357</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

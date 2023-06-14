@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-recyclables-foam</folder>
+	<filename>img_828.jpg</filename>
+	<path>E:\example\PycharmProjects\datasets\ljok\ljok\new_img\img_828.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5/可回收垃圾/泡沫</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>89</ymin>
+			<xmax>314</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
