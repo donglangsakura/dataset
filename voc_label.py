@@ -30,8 +30,8 @@ def convert(size, box):
 
 
 def convert_annotation(image_id):
-    in_file = open('E:/example/PycharmProjects/datasets/VOCwater_garbages/Annotations/%s.xml' % (image_id), encoding='UTF-8')
-    out_file = open('E:/example/PycharmProjects/datasets/VOCwater_garbages/labels/%s.txt' % (image_id), 'w', encoding='UTF-8')
+    in_file = open('Annotations/%s.xml' % (image_id), encoding='UTF-8')
+    out_file = open('labels/%s.txt' % (image_id), 'w', encoding='UTF-8')
     tree = ET.parse(in_file)
     root = tree.getroot()
     size = root.find('size')
@@ -54,14 +54,14 @@ def convert_annotation(image_id):
 wd = getcwd()
 
 for image_set in sets:
-    if not os.path.exists('VOCwater_garbages/labels/'):
-        os.makedirs('VOCwater_garbages/labels/')
-    image_ids = open('E:/example/PycharmProjects/datasets/VOCwater_garbages/ImageSets/Main/%s.txt' % (image_set),
+    if not os.path.exists('labels/'):
+        os.makedirs('labels/')
+    image_ids = open('ImageSets/Main/%s.txt' % (image_set),
                      encoding='UTF-8').read().strip().split()
     #image_ids = open('VOC2007/ImageSets/Main/%s.txt' % (image_set)).read().strip().split()
     list_file = open('%s.txt' % (image_set), 'w', encoding='UTF-8')
     for image_id in image_ids:
-        list_file.write('VOCwater_garbages/JPEGImages/%s.jpg\n' % (image_id))
+        list_file.write('/home/fans/code/datasets/VOCwater_garbages/JPEGImages/%s.jpg\n' % (image_id))
         convert_annotation(image_id)
     list_file.close()
 
